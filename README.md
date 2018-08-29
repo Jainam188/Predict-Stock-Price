@@ -16,3 +16,7 @@ Linear Model
 RBF Model
 
 Polynomial Model
+
+#To Predict Latest stock Price 
+
+https://finance.yahoo.com/quote/AAPL/history?p=AAPL
