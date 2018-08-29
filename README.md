@@ -17,6 +17,6 @@ RBF Model
 
 Polynomial Model
 
-#To Predict Latest stock Price 
+#For Latest stock Price 
 
 https://finance.yahoo.com/quote/AAPL/history?p=AAPL
